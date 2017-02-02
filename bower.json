@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "authors": [
+    "Mediatec Software <hello@mediatec.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.4",
+    "jquery": "latest",
+    "tether": "latest",
+    "jquery-mousewheel": "latest",
+    "nprogress": "latest",
+    "typed.js": "latest",
+    "three": "latest",
+    "jquery.scrollTo": "latest"
+  }
+}
